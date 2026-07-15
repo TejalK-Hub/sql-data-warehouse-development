@@ -30,9 +30,6 @@ The project follows the Medallion Architecture:
 - SQL Server
 - SQL Server Management Studio (SSMS)
 
-
-```
-
 ## Project Status
 
 Core implementation completed.
